@@ -7,7 +7,7 @@ the script is used to automate ssh login as said above, however you can scan you
 
 --------SETUP 
 
-git clone https://github.com/ArkAngeL43/virus-sploite.git 
+git clone https://github.com/ArkAngeL43/Virus-sploit.git
 
 cd virus-sploite 
 
